@@ -116,8 +116,7 @@ final_Q_learn = np.mean(RR_QL , axis = 0)
 # In[24]:
 
 
-print(Q[0][0][:])
-np.argmax(Q[0][0][:])
+
 
 
 # In[ ]:
@@ -189,7 +188,7 @@ final_SARSA = np.mean(RR_SA , axis = 0)
 # In[ ]:
 
 
-final_SARSA
+
 
 
 # In[ ]:
